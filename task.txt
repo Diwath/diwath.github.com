@@ -1,0 +1,12 @@
+1. Make this website 
+2. Use snowfall.js
+3. Use splide.js(in the third section,->where('images', '=', 8)->in responsive version.
+4. Use aos.js
+5. Use bootstrap icons 
+6. No pure CSS, use just framework of CSS - Bootstrap
+7. Make it responsive
+8. All must upload it to github
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+At home try to learn by yourself fancybox.js - plyr.js - rainyday.js
